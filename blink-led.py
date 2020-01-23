@@ -1,5 +1,5 @@
 #Blinks LED on pin 13 - Adafruit Edge Badge
-#need to add your own LED
+#No other files required
 
 import time
 import board
