@@ -1,6 +1,8 @@
 # CircuitPython IO demo #1 - General Purpose I/O
 # When badge button a pressed, pin 13 goes high.
 # Need to add LED separately
+# Copy files onto badge: https://github.com/adafruit/CircuitPython_Badge_README/tree/master/final_versions/HACKADAY_SUPERCON_2019
+# Then replace replace contents of code.py with this text
 
 from adafruit_pybadger import PyBadger
 
